@@ -1698,6 +1698,12 @@ Start of timeline animation
             font-size: 1.75rem;
         }
 
+        .section-title {
+            text-align: center;
+            margin-top: 5%;
+            padding: 5%;
+        }
+
     .owl-carousel .owl-item img {
         display: block;
         width: 100%;
@@ -1794,15 +1800,15 @@ Start of timeline animation
       .client-logos {
         position: relative;
         width: 100%;
-        height: auto; 
-        top: -128px;
-        padding: 0px
-    } 
+        height: auto;
+        margin-bottom: 5%;
+        top: -3rem;
+    }
 
-    .section-gallery{
+    .section-gallery {
         width: 100%;
         height: auto;
-        margin-top: -70px;
+        margin-top: 2%;
     }
 
     .section-loc {
@@ -1817,11 +1823,9 @@ Start of timeline animation
     .section-title-loc {
         position: relative;
         align-content: center;
-        right: 0px;
-        margin-bottom: auto;
-        margin-top: auto;
-        margin-left: auto;
-        margin-right: auto
+        text-align: center;
+        margin-top: 5%;
+        padding: 5%;
     }
 
     .indo-map {
@@ -1842,6 +1846,12 @@ Start of timeline animation
         margin-left: auto;
         padding-bottom: 0px
     } 
+
+    .row-location {
+        width: 70%;
+        height: auto;
+        margin-right: 15%;
+    }
     
     .location-details {
         position: relative;
@@ -1877,13 +1887,18 @@ Start of timeline animation
        left: 70px
     }
 
+    .bg-gradient {
+        margin-top: 0;
+        padding: 20%;
+    }
+
     .container-download {
         width: 100%;
         padding-right: 15px;
         padding-left: 15px;
         margin-right: auto;
         margin-left: auto;
-        margin-bottom: 100px;
+        margin-bottom: 50px;
         margin-top: -150px;
     }
     .call-to-action {
@@ -1901,6 +1916,16 @@ Start of timeline animation
     }
     h2 {
         font-size: 30px;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+    }
+
+    .section-title {
+        text-align: center;
+        margin-top: 5%;
+        padding: 5%;
     }
     
     .owl-carousel .owl-item img.gallery-img {
@@ -1992,15 +2017,15 @@ Start of timeline animation
       .client-logos {
         position: relative;
         width: 100%;
-        height: auto; 
-        top: -128px;
-        padding: 0px
-    } 
+        height: auto;
+        margin-bottom: 5%;
+        top: -3rem;
+    }
 
-    .section-gallery{
+    .section-gallery {
         width: 100%;
         height: auto;
-        margin-top: -70px;
+        margin-top: -2%;
     }
 
     .section-loc {
@@ -2013,11 +2038,8 @@ Start of timeline animation
     .section-title-loc {
         position: relative;
         align-content: center;
-        right: 0px;
-        margin-bottom: auto;
-        margin-top: auto;
-        margin-left: auto;
-        margin-right: auto
+        margin-top: 5%;
+        padding: 5%;
     }
 
     .indo-map {
@@ -2038,6 +2060,12 @@ Start of timeline animation
         margin-left: auto;
         padding-bottom: 0px
     } 
+
+    .row-location {
+        width: 60%;
+        height: auto;
+        margin-right: 15%;
+    }
     
     .location-details {
         position: relative;
@@ -2073,6 +2101,11 @@ Start of timeline animation
        left: 70px
     }
 
+    .bg-gradient {
+        margin-top: 0;
+        padding: 20%;
+    }
+
     .container-download {
         width: 100%;
         padding-right: 15px;
@@ -2101,6 +2134,12 @@ Start of timeline animation
     
     .h3, h3 {
         font-size: 1.75rem;
+    }
+
+    .section-title {
+        text-align: center;
+        margin-top: 5%;
+        padding: 5%;
     }
 
 
@@ -2193,15 +2232,17 @@ Start of timeline animation
       .client-logos {
         position: relative;
         width: 100%;
-        height: auto; 
-        top: -128px;
-        padding: 0px
-    } 
+        height: auto;
+        margin-bottom: 5%;
+        top: -3rem;
+    }
+    
 
     .section-gallery{
         width: 100%;
         height: auto;
         margin-top: -70px;
+        margin-bottom: 15%;
     }
 
     .section-loc {
@@ -2214,11 +2255,9 @@ Start of timeline animation
     .section-title-loc {
         position: relative;
         align-content: center;
-        right: 0px;
-        margin-bottom: auto;
-        margin-top: auto;
-        margin-left: auto;
-        margin-right: auto
+        text-align: center;
+        margin-top: 5%;
+        padding: 5%;
     }
 
     .indo-map {
@@ -2239,6 +2278,12 @@ Start of timeline animation
         margin-left: auto;
         padding-bottom: 0px
     } 
+
+    .row-location {
+        width: 85%;
+        height: auto;
+        margin-right: 15%;
+    }
     
     .location-details {
         position: relative;
@@ -2283,6 +2328,12 @@ Start of timeline animation
         margin-bottom: 100px;
         margin-top: -150px;
     }
+
+    .bg-gradient {
+        margin-top: 0;
+        padding: 20%;
+    }
+    
     .call-to-action {
         padding-top: 50px;
         margin-bottom: 50px;
@@ -2302,6 +2353,12 @@ Start of timeline animation
 
     .h3, h3 {
         font-size: 1.75rem;
+    }
+
+    .section-title {
+        text-align: center;
+        margin-top: 8%;
+        padding: 5%;
     }
 
     .owl-theme .owl-nav [class*=owl-] {
@@ -2404,15 +2461,17 @@ Start of timeline animation
       .client-logos {
         position: relative;
         width: 100%;
-        height: auto; 
-        top: -128px;
-        padding: 0px
-    } 
+        height: auto;
+        margin-bottom: 5%;
+        top: -3rem;
+    }
+    
 
     .section-gallery{
         width: 100%;
         height: auto;
         margin-top: -70px;
+        margin-bottom: 15%
     }
 
     .section-loc {
@@ -2451,6 +2510,12 @@ Start of timeline animation
         margin-left: auto;
         padding-bottom: 0px
     } 
+
+    .row-location {
+        width: 80%;
+        height: auto;
+        margin-right: 35%;
+    }
     
     .location-details {
         position: relative;
@@ -2492,6 +2557,11 @@ Start of timeline animation
         height: auto
     }
 
+    .bg-gradient {
+        margin-top: 0;
+        padding: 20%;
+    }
+
     .container-download {
         width: 100%;
         padding-right: 15px;
@@ -2522,6 +2592,11 @@ Start of timeline animation
         font-size: 1.75rem;
     }
 
+    .section-title {
+        text-align: center;
+        margin-top: 5%;
+        padding: 5%;
+    }
 
  .owl-carousel .owl-item img.gallery-img {
         display: block;
@@ -2612,15 +2687,14 @@ Start of timeline animation
       .client-logos {
         position: relative;
         width: 100%;
-        height: auto; 
-        top: -128px;
-        padding: 0px
-    } 
-
-    .section-gallery{
+        height: auto;
+        margin-bottom: 5%;
+        top: -3rem;
+    }
+    .section-gallery {
         width: 100%;
         height: auto;
-        margin-top: -70px;
+        margin-bottom: 15%
     }
 
     .section-loc {
@@ -2657,6 +2731,12 @@ Start of timeline animation
         margin-left: auto;
         padding-bottom: 0px
     } 
+
+    .row-location {
+        width: 80%;
+        height: auto;
+        margin-right: 35%;
+    }
     
     .location-details {
         position: relative;
@@ -2698,6 +2778,11 @@ Start of timeline animation
         height: auto
     }  
 
+    .bg-gradient {
+        margin-top: 0;
+        padding: 20%;
+    }
+
     .container-download {
         width: 100%;
         padding-right: 15px;
@@ -2714,7 +2799,7 @@ Start of timeline animation
 }
 
 /* bigger than 6.4 inch */
-@media (min-width:616px) and (max-width: 677px) {
+@media (min-width:615px) and (max-width: 677px) {
     h1 {
         font-size: 20px;
         margin-left: 100px;
@@ -2727,6 +2812,11 @@ Start of timeline animation
         font-size: 1.75rem;
     }
 
+    .section-title {
+        text-align: center;
+        margin-top: 5%;
+        padding: 5%;
+    }
 
  .owl-carousel .owl-item img.gallery-img {
         display: block;
@@ -2817,15 +2907,14 @@ Start of timeline animation
       .client-logos {
         position: relative;
         width: 100%;
-        height: auto; 
-        top: -128px;
-        padding: 0px
-    } 
-
-    .section-gallery{
+        height: auto;
+        margin-bottom: 5%;
+        top: -3rem;
+    }
+    .section-gallery {
         width: 100%;
         height: auto;
-        margin-top: -70px;
+        margin-bottom: 15%
     }
 
     .section-loc {
@@ -2844,13 +2933,13 @@ Start of timeline animation
         margin-right: auto
     }
 
-   .indo-map {
+  .indo-map {
         position: relative;
         width: 80%;
         height: 80%;
         margin: 0px;
         top: -10px;
-        left: 120px;
+        left: 70px;
     }
 
     .container-location {
@@ -2862,6 +2951,12 @@ Start of timeline animation
         margin-left: auto;
         padding-bottom: 0px
     } 
+
+    .row-location {
+        width: 80%;
+        height: auto;
+        margin-right: 35%;
+    }
     
     .location-details {
         position: relative;
@@ -2871,7 +2966,7 @@ Start of timeline animation
         margin-bottom: 0px;    
         margin-right: 0px;
         margin-left: 0px;
-        left: 70px
+        left: 100px
        
     }
     
@@ -2883,7 +2978,7 @@ Start of timeline animation
         margin-bottom: 0px;
         margin-right: 0px;
         margin-left: 0px;
-        left: 70px
+        left: 100px
     }
     
     .location-details-3 {
@@ -2894,7 +2989,7 @@ Start of timeline animation
        margin-bottom: 0px;
        margin-right: 0px;
        margin-left: 0px;
-       left: 70px
+       left: 100px
     }
 
     .owl-carousel .owl-item img {
@@ -2902,6 +2997,11 @@ Start of timeline animation
         width: 100%;
         height: auto
     }  
+
+    .bg-gradient {
+        margin-top: 0;
+        padding: 20%;
+    }
 
     .container-download {
         width: 100%;
@@ -2917,6 +3017,7 @@ Start of timeline animation
         margin-bottom: 50px;
     }
 }
+
 
 /* bigger or equal to 7 'inch*/
 @media (min-width:677px) and (max-width: 767px) {
@@ -3741,6 +3842,7 @@ Start of timeline animation
     .h3, h3 {
         font-size: 1.75rem;
     }
+    
 
     .img-gallery {
     left: 0px;
@@ -3865,11 +3967,9 @@ Start of timeline animation
     .section-title-loc {
         position: relative;
         align-content: center;
-        right: 0px;
-        margin-bottom: auto;
-        margin-top: auto;
-        margin-left: auto;
-        margin-right: auto
+        text-align: center;
+        margin-top: 5%;
+        padding: 5%;
     }
 
     .indo-map {
@@ -3961,6 +4061,12 @@ Start of timeline animation
 
     .h3, h3 {
         font-size: 1.75rem;
+    }
+
+    .section-title {
+        text-align: center;
+        margin-top: 5%;
+        padding: 5%;
     }
 
     .owl-carousel .owl-item img {
@@ -4071,19 +4177,20 @@ Start of timeline animation
           margin-top: -200px;
         }
 
-        .client-logos {
-            position: relative;
-            width: 100%;
-            height: auto; 
-            top: -128px;
-            padding: 0px
-        } 
-    
-        .section-gallery{
-            width: 100%;
-            height: auto;
-            margin-top: -70px;
-        }
+     .client-logos {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-bottom: 5%;
+    top: -3rem;
+}
+
+.section-gallery {
+    width: 100%;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
 
         .section-loc {
             padding-top: 0px;
@@ -4095,10 +4202,9 @@ Start of timeline animation
         .section-title-loc {
             position: relative;
             align-content: center;
-            margin-bottom: auto;
-            margin-top: auto;
-            margin-left: auto;
-            margin-right: auto
+            text-align: center;
+            margin-top: 5%;
+            padding: 5%;
         }
     
         .indo-map {
@@ -4120,6 +4226,12 @@ Start of timeline animation
             padding-bottom: 0px
         } 
         
+        .row-location {
+            width: 60%;
+            height: auto;
+            margin-right: 15%;
+        }
+
         .location-details {
             position: relative;
             z-index: 2;
@@ -4152,6 +4264,11 @@ Start of timeline animation
            margin-right: 0px;
            margin-left: 0px;
            left: 70px
+        }
+
+        .bg-gradient {
+            margin-top: 0;
+            padding: 20%;
         }
 
         .container-download {
